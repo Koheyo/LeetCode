@@ -6,3 +6,4 @@ Java
 
  [模拟:题目](imitate/src/leetcode/editor/cn/doc/content) 
 
+ [笔记](imitate/src/leetcode/editor/cn/doc/note) 
