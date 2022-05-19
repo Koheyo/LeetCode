@@ -69,6 +69,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BuildAnArrayWithStackOperations_1441.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/BuildAnArrayWithStackOperations_1441.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1441" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/BuildAnArrayWithStackOperations_1441.java" />
+              <option name="titleSlug" value="build-an-array-with-stack-operations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CellsWithOddValuesInAMatrix_1252.java">
           <value>
             <LeetcodeEditor>
