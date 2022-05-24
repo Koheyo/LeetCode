@@ -146,6 +146,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MostVisitedSectorInACircularTrack_1560.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MostVisitedSectorInACircularTrack_1560.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1560" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MostVisitedSectorInACircularTrack_1560.java" />
+              <option name="titleSlug" value="most-visited-sector-in-a-circular-track" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReshapeTheMatrix_566.java">
           <value>
             <LeetcodeEditor>
